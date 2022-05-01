@@ -1,1 +1,1 @@
-This is all about my major project.
+These are the codes for our major project.
